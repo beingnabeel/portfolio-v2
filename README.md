@@ -166,3 +166,4 @@ This project is free and open source software, distributed under the The MIT Lic
 ## Credits
 
 This project was inspired by [brittanychiang.com](https://brittanychiang.com/)
+Nabeel Hassan
